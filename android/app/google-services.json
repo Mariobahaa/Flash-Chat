@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75766685910",
+    "firebase_url": "https://flash-chat-a7c49.firebaseio.com",
+    "project_id": "flash-chat-a7c49",
+    "storage_bucket": "flash-chat-a7c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75766685910:android:8904f8c8704205bf77a977",
+        "android_client_info": {
+          "package_name": "co.mariobahaa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75766685910-242idi4cj1svbsf2uispq5s506gsq207.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVOROv3DvXJrJDc4oLl8zo87-1UIvnAjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75766685910-242idi4cj1svbsf2uispq5s506gsq207.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
